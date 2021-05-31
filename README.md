@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/endersonrufino/
 [linkedin]: https://www.linkedin.com/in/enderson-rufino-amorim-92406012a/
 [medium]: https://medium.com/@endersonrufino/
+
+![Snake animation](https://github.com/endersonrufino/endersonrufino/blob/output/github-contribution-grid-snake.svg)
